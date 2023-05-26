@@ -1,0 +1,1 @@
+ export const valeUrl ="https://route-ecommerce.onrender.com/api/v1/auth/"
